@@ -1,0 +1,8 @@
+{
+  "name": "Copy of HoloEarth AI",
+  "description": "A 3D interactive holographic Earth science interface controlled by hand gestures and powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
